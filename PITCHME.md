@@ -5,9 +5,9 @@
 ## Today
 1. Interfaces.
 1. Interfaces vs. subclasses.
-1. A simple version of `Comparable` 
+1. A simple version of `Comparable`.
 1. Function pointer - Strategy pattern.
-1. A simple version of `Comparator`
+1. A simple version of `Comparator`.
 1. Decorator pattern.
 
 ---
@@ -277,7 +277,7 @@ Use it to calculate $\sum_{i=0}^{100} i^2$.
 ---
 @code[java code-max code-noblend](src/Sumer.java)
 where
-@code[java code-max code-noblend](src/IntFunc.java)
+@code[java code-max code-noblend](src/Function.java)
 
 
 

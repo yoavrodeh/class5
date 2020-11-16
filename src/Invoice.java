@@ -17,7 +17,7 @@ public class Invoice implements Payable {
 
 	@Override
 	public String toString() {
-		return String.format("%s : %d at %d each", 
+		return String.format("%s %d at %d each", 
 				company, quantity, price);
 	}
 }
